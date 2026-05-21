@@ -1,2 +1,2 @@
 # IntroToProg-Python-Mod05
-This Rep. will be used for reviewing homework files
+This repository stores the files from my introduction to programing with python course.
